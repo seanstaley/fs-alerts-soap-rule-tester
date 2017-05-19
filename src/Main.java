@@ -16,7 +16,7 @@ public class Main {
     private static final String SOAP_TESTER = "SOAP Tester";
     private static final String FS_TESTING_SOAP_TESTER = "FS Testing SOAP tester";
     private static final String TYPE = "XML";
-    private static final String DELIVER_TO = "http://doesnotexist.flightstats.com/";
+    private static final String DELIVER_TO = "http://doesnotgoanywhere/";
     private static final String EVENTS = "dep,arr,div,can,preDep240,preDep60,bag240";
     private static final String CODE_TYPE = "FS";
     private static final String EXTENDED_OPTIONS = "testRun";
